@@ -1,0 +1,21 @@
+C:\Users\305-9\Desktop\Колупаев\Задание 2\bin\Debug\Задание 2.exe.config
+C:\Users\305-9\Desktop\Колупаев\Задание 2\bin\Debug\Задание 2.exe
+C:\Users\305-9\Desktop\Колупаев\Задание 2\bin\Debug\Задание 2.pdb
+C:\Users\305-9\Desktop\Колупаев\Задание 2\obj\Debug\Задание 2.csproj.AssemblyReference.cache
+C:\Users\305-9\Desktop\Колупаев\Задание 2\obj\Debug\Задание_2.Form1.resources
+C:\Users\305-9\Desktop\Колупаев\Задание 2\obj\Debug\Задание_2.Properties.Resources.resources
+C:\Users\305-9\Desktop\Колупаев\Задание 2\obj\Debug\Задание 2.csproj.GenerateResource.cache
+C:\Users\305-9\Desktop\Колупаев\Задание 2\obj\Debug\Задание 2.csproj.CoreCompileInputs.cache
+C:\Users\305-9\Desktop\Колупаев\Задание 2\obj\Debug\Задание 2.exe
+C:\Users\305-9\Desktop\Колупаев\Задание 2\obj\Debug\Задание 2.pdb
+C:\Users\Александр\OneDrive\Рабочий стол\Колупаев Александр\Practic1506-main\Задание 2\bin\Debug\Задание 2.exe.config
+C:\Users\Александр\OneDrive\Рабочий стол\Колупаев Александр\Practic1506-main\Задание 2\bin\Debug\Задание 2.exe
+C:\Users\Александр\OneDrive\Рабочий стол\Колупаев Александр\Practic1506-main\Задание 2\bin\Debug\Задание 2.pdb
+C:\Users\Александр\OneDrive\Рабочий стол\Колупаев Александр\Practic1506-main\Задание 2\obj\Debug\Задание 2.csproj.AssemblyReference.cache
+C:\Users\Александр\OneDrive\Рабочий стол\Колупаев Александр\Practic1506-main\Задание 2\obj\Debug\Задание 2.csproj.SuggestedBindingRedirects.cache
+C:\Users\Александр\OneDrive\Рабочий стол\Колупаев Александр\Practic1506-main\Задание 2\obj\Debug\Задание_2.Form1.resources
+C:\Users\Александр\OneDrive\Рабочий стол\Колупаев Александр\Practic1506-main\Задание 2\obj\Debug\Задание_2.Properties.Resources.resources
+C:\Users\Александр\OneDrive\Рабочий стол\Колупаев Александр\Practic1506-main\Задание 2\obj\Debug\Задание 2.csproj.GenerateResource.cache
+C:\Users\Александр\OneDrive\Рабочий стол\Колупаев Александр\Practic1506-main\Задание 2\obj\Debug\Задание 2.csproj.CoreCompileInputs.cache
+C:\Users\Александр\OneDrive\Рабочий стол\Колупаев Александр\Practic1506-main\Задание 2\obj\Debug\Задание 2.exe
+C:\Users\Александр\OneDrive\Рабочий стол\Колупаев Александр\Practic1506-main\Задание 2\obj\Debug\Задание 2.pdb
